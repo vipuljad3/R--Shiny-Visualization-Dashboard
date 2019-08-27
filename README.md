@@ -1,4 +1,4 @@
-FIT5147-VISUALISATION PROJECT
+## please read README.PDF for more detailed visuals
 
 LIFE STYLE ANALYSIS-(REPORT)
 
